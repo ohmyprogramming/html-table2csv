@@ -25,7 +25,7 @@ function html_table2csv(
 
     /* Sanitize innerText */
     function sanitize(t) {
-        /* Run callback before innerTetx */
+        /* Run callback before innerText */
         if (hascb && !cb_order)
             t = callback(t);
 
