@@ -1,6 +1,6 @@
 
 /*
- * Copyright (C) 2023 Nurudin Imsirovic <github.com/oxou>
+ * Copyright (C) 2023 ohmyprogramming <github.com/ohmyprogramming>
  * html-table2csv
  * JavaScript Function to convert a HTMLTableElement to a CSV buffer
  * which can be then imported into other tools.
